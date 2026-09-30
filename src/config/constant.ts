@@ -61,7 +61,7 @@ export const EXPERIENCES: Experience[] = [
   {
     role: "MERN Stack Intern",
     company: "Apptunix",
-    period: "September 2025 - December 2025"
+    period: "September 2025 - February 2026"
   }
 ];
 
